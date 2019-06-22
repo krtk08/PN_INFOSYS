@@ -1,0 +1,61 @@
+background property:
+	background color
+	background image
+	background size
+	background clip
+	background origin
+	background attachment
+	background repeat
+	background position
+
+background clip:
+ 	border box
+	padding box
+	content box
+
+border property:
+	border
+	border bottom
+	border-color
+	border-radius
+	border-top
+	border-left-color
+	border-color
+	border-left
+	border-top-color
+	border-style
+	borderright
+	border-width
+	border-image
+
+margin property:
+	margin
+	margin-right
+	margin-left
+	margin-top
+	margin:25px 25px 25px 25px
+
+padding property:
+	padding
+	padding-right
+	padding-left
+	padding-top
+	padding:25px 25px 25px 25px
+
+outline property:
+	outline-style
+	outline-color
+	outline-offset
+	outline-with
+
+text formating:
+	color
+	align
+	Text-decoration
+	text-intentation
+	letter-spacing
+	line-height
+	word-spacing
+	text-transform
+	text-shadow
+	box-shadow

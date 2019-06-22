@@ -1,0 +1,21 @@
+ul li{
+	display: inline-block;
+    font-weight: bold;
+    word-spacing: 15px;
+    line-height: 23px;
+    width: 60px;
+    background-color: #3970a7;
+    height: 23px;
+    text-align: center;
+    color: #19ce95;
+}
+ul li a{
+	color: white;
+	text-decoration: none;
+}
+ul li:hover{
+	background-color: black;
+}
+.active{
+	background-color: red;
+}

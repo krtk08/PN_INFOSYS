@@ -1,0 +1,20 @@
+ul li{
+	display: inline-block;
+    font-weight: bold;
+    word-spacing: 15px;
+    line-height: 30px;
+    width: 190px;
+    background-color: #3970a7;
+    height: 33px;
+    text-align: center;
+    color: #19ce95;
+    font-style: Timesnewromen;
+    font-size: 20px;
+}
+ul li a{
+	color: white;
+	text-decoration: none;
+}
+ul li:hover{
+	background-color: black;
+}
